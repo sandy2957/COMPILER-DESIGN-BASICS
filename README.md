@@ -46,3 +46,8 @@ This task helped me appreciate the inner workings of a compiler at a beginner le
 I added comments throughout my code to make it more readable and maintainable. I also tested the program with different input files to ensure it could identify a variety of keywords and operators correctly.
 
 Overall, Task 3 was both educational and exciting. It gave me insight into how programming languages are understood by computers, and how a simple tool can break down code into components. It has motivated me to explore more topics in compiler design and lexical processing in the future.
+
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/36641cb9-4afc-4a03-970f-3c020faf8acf)
